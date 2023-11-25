@@ -28,7 +28,7 @@ const Hero = () => (
         </motion.div>
       </div>
 
-      <motion.div
+{/*       <motion.div
         variants={slideIn('right', 'tween', 0.2, 1)}
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       >
@@ -49,7 +49,7 @@ const Hero = () => (
             />
           </div>
         </a>
-      </motion.div>
+      </motion.div> */}
     </motion.div>
   </section>
 );
